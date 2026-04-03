@@ -2,13 +2,13 @@
 
 We are the premier destination for high-quality, instant-play browser games. No downloads, just pure fun! 🚀
 
-### 🕹️ Featured Games on Minigame.com
+### 🕹️ Featured Games on MiniGame.com
 *   **Action Racers** - Adrenaline-pumping combat racing.
 *   **Physics Puzzles** - Challenging mind-benders for all ages.
 *   **Arcade Classics** - Modern twists on timeless mechanics.
 
 ### 🌍 Let's Play
-👉 **[Visit Minigame.com Now](https://minigame.com)**
+👉 **[Visit minigame.com Now](https://minigame.com)**
 
 ---
 ### 📱 Connect with Us
