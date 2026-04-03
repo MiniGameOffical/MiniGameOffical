@@ -18,3 +18,8 @@ We are the premier destination for high-quality, instant-play browser games. No 
 [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/MiniGameCom)
 
 *Follow us for the latest game releases and developer updates!*
+
+---
+### 🚀 Latest Community Update
+*   **Live Now:** [PopStone 2](https://minigame.com/en/game/popstone2/info) - The ultimate physics-based match-3 challenge.
+*   **Developer Notes:** Optimized for mobile browser performance!
