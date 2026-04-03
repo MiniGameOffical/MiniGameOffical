@@ -8,7 +8,7 @@ We are the premier destination for high-quality, instant-play browser games. No 
 *   **Arcade Classics** - Modern twists on timeless mechanics.
 
 ### 🌍 Let's Play
-👉 **[Visit minigame.com Now](https://minigame.com)**
+👉 **[Visit Minigame.com Now](https://minigame.com)**
 
 ---
 ### 📱 Connect with Us
