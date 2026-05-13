@@ -20,6 +20,9 @@ We are the premier destination for high-quality, instant-play browser games. No 
 *Follow us for the latest game releases and developer updates!*
 
 ---
-### 🚀 Latest Community Update
-*   **Live Now:** [PopStone 2](https://minigame.com/en/game/popstone2/info) - The ultimate physics-based match-3 challenge.
-*   **Developer Notes:** Optimized for mobile browser performance!
+🚀 Latest Community Update
+Live Now: **[minis ball](https://minigame.com/en/game/community/minis-ball)** - The ultimate football-themed challenge featuring a competitive edge!
+
+Global Rankings: Our exclusive community ranking system is now live—only for Minis Ball players!
+
+Developer Notes: Optimized for high-performance WebGL and seamless community interaction!
